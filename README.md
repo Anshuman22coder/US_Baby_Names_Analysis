@@ -146,7 +146,7 @@ us-baby-names-analytics/
 
 1. Clone the repository:
 ```bash
-git clone [https://github.com/Anshuman22coder/US_Baby_Names_Analysis.git](https://github.com/Anshuman22coder/US_Baby_Names_Analysis.git)
+git clone [https://github.com/Anshuman22coder/US_Baby_Names_Analysis.git]
 ```
 2. Open the SQL scripts in **SSMS** or any SQL IDE to inspect query logic.
 3. Open `Us_baby_report.pbix` in **Power BI Desktop** to explore the data models, DAX measures, and drill-through visual layers.
